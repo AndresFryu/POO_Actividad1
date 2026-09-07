@@ -1,4 +1,4 @@
-package Actividad1_POO;
+package Actividad1_POO.Ej_17;
 
 import java.util.Scanner; //pa llamar al scanner manin
 
