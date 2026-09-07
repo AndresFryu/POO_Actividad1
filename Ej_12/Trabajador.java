@@ -1,4 +1,4 @@
-package Actividad1_POO;
+package Actividad1_POO.Ej_12;
 
 public class Trabajador {
 
