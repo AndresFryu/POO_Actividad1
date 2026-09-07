@@ -1,4 +1,4 @@
-package Actividad1_POO;
+package Actividad1_POO.Ej_14;
 
 public class Potenciacion {
     public static double calcularcuadrado(double numero) {
