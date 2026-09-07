@@ -1,4 +1,4 @@
-package Actividad1_POO;
+package Actividad1_POO.Ej_4;
 
 public class Edades{
     public static double Calcular_edalber(double edjuan){
